@@ -1,6 +1,5 @@
 <html>
 <body>
 hello world!
-<p> welcome to capgemini </p>
 </body>
 </html>
