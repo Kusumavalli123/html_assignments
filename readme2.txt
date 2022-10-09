@@ -1,1 +1,1 @@
-GIT is a version control language.
+GIT is a version control language. It is used to manage files.

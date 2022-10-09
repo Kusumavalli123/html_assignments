@@ -1,1 +1,1 @@
-HTML is Hyper Text Markup Language.
+HTML is Hyper Text Markup Language. It is used to create webpages.
